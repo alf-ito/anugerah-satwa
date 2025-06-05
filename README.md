@@ -101,7 +101,7 @@
         `📋 Jenis Hewan: ${jenisHewan}%0A` +
         `💬 Keluhan: ${keluhan}`;
 
-      window.open(`https://wa.me/${6282297333587}?text=${message}`, '_blank');
+      window.open(`https://wa.me/${}?text=${message}`, '_blank');
     });
   </script>
 
